@@ -1,0 +1,1 @@
+# apisalud.msal.gob.ar-carnetcovid-v2-miargentina-covid-carnet-validar-img.token-ro45ege233nstoigr.or
